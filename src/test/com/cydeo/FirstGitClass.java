@@ -6,5 +6,7 @@ public class FirstGitClass {
         System.out.println("practice for git");
 
         System.out.println("added this line");
+
+        System.out.println("another line of code");
     }
 }
